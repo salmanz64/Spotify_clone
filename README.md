@@ -4,10 +4,12 @@ A **full-stack music streaming application** inspired by Spotify, built with **F
 
 ---
 
+
 ## Demo
 
-![App Demo](./assets/demo.gif)  
-> Replace with your actual GIF or video showcasing the app.
+[Watch the Demo Video]((https://www.youtube.com/shorts/4h58Qp_6Sac))
+
+
 
 ---
 
@@ -26,15 +28,13 @@ A **full-stack music streaming application** inspired by Spotify, built with **F
 ## Screenshots
 
 ### Home Screen
-![Home Screen](./assets/home.png)
+<img src="./assets/home.png" alt="Home Screen" width="400"/>
 
 ### Now Playing
 <img src="./assets/now_playing.png" alt="Now Playing" width="400"/>
 
 ### Favorites & Playlists
-![Favorites](./assets/favorites.png)
-
-> Replace paths with your actual screenshots.
+<img src="./assets/favorites.png" alt="Favorites" width="400"/>
 
 ---
 
