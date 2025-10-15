@@ -29,7 +29,7 @@ A **full-stack music streaming application** inspired by Spotify, built with **F
 ![Home Screen](./assets/home.png)
 
 ### Now Playing
-![Now Playing](./assets/now_playing.png)
+<img src="./assets/now_playing.png" alt="Now Playing" width="400"/>
 
 ### Favorites & Playlists
 ![Favorites](./assets/favorites.png)
