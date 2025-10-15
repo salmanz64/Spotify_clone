@@ -1,4 +1,4 @@
-# Spotify Clone 🎵
+# TuneStream 🎵
 
 A **full-stack music streaming application** inspired by Spotify, built with **FastAPI**, **PostgreSQL**, and **Flutter (MVVM + Riverpod)**. Play songs in the foreground while exploring playlists, favorites, and more.
 
